@@ -1,11 +1,5 @@
 
 import math
-
-"""
-Exemplo do conteúdo visto acima!
-"""
-
-
 def main():
     # Solicita ao usuário dois números inteiro
     num1 = int(input("Digite o primeiro número inteiro: "))
