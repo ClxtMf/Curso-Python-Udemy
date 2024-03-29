@@ -39,4 +39,3 @@ elif nota >= 70:
     print("Nota: C")
 else:
     print("Nota: D")
-    
